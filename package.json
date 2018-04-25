@@ -1,0 +1,17 @@
+{
+  "name": "Prices",
+  "version": "1.0.0",
+  "description": "Pricelist for demo articles",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Johan Malmanger",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.3"
+  }
+}
